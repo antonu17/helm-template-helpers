@@ -1,6 +1,6 @@
 {{/* vim: set filetype=mustache: */}}
 {{/*
-Expand the name of the chart.
+Return UUID
 */}}
 {{- define "chart.test" -}}
 {{- $uuid := uuidv4 -}}
