@@ -1,0 +1,5 @@
+1. Include helper "chart.test":
+{{ include "chart.test" . }}
+
+2. Include helper "chart.test":
+{{ include "chart.test" . }}

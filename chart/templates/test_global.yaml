@@ -1,0 +1,6 @@
+{{- $uuid := uuidv4 -}}
+1. Output "$uuid":
+{{ $uuid }}
+
+2. Output "$uuid":
+{{ $uuid }}
